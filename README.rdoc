@@ -4,6 +4,17 @@ A very simple ANSI manipulation library, checkout the examples below:
 
 ![](https://github.com/placeit-envato/isna/wiki/isna.png)
 
+== Ownership and provenance
+
+This repository is owned and maintained internally by Envato under the
++placeit-envato+ organization (contact: mx-engineering@envato.com).
+
+It originated as a copy of the upstream personal project
++ktlacaelel/isna+. That project has been formally absorbed: this repo is the
+authoritative source of truth, the GitHub fork relationship has been severed,
+and no build, deploy, or CI process syncs from any upstream. See the CODEOWNERS
+file for the owning team.
+
 
 
 == Try it yourself.
