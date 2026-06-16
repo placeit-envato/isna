@@ -7,9 +7,9 @@ begin
     gem.name = "isna"
     gem.summary = %Q{Simple ansi library}
     gem.description = %Q{Easily compiles transforms a string into ansi code}
-    gem.email = "kazu.dev@gmail.com"
-    gem.homepage = "http://github.com/ktlacaelel/isna"
-    gem.authors = ["kazuyoshi tlacaelel"]
+    gem.email = "mx-engineering@envato.com"
+    gem.homepage = "https://github.com/placeit-envato/isna"
+    gem.authors = ["MX Engineering"]
     gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end

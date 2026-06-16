@@ -8,10 +8,10 @@ Gem::Specification.new do |s|
   s.version = "0.0.4"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["kazuyoshi tlacaelel"]
+  s.authors = ["MX Engineering"]
   s.date = %q{2011-11-14}
   s.description = %q{Easily compiles transforms a string into ansi code}
-  s.email = %q{kazu.dev@gmail.com}
+  s.email = %q{mx-engineering@envato.com}
   s.extra_rdoc_files = [
     "LICENSE",
      "README.rdoc"
@@ -34,7 +34,7 @@ Gem::Specification.new do |s|
      "test/helper.rb",
      "test/test_isna.rb"
   ]
-  s.homepage = %q{http://github.com/ktlacaelel/isna}
+  s.homepage = %q{https://github.com/placeit-envato/isna}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
